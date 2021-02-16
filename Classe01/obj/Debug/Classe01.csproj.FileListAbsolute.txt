@@ -1,0 +1,7 @@
+C:\Users\Luiz Sena\source\repos\Classe01\Classe01\bin\Debug\Classe01.exe.config
+C:\Users\Luiz Sena\source\repos\Classe01\Classe01\bin\Debug\Classe01.exe
+C:\Users\Luiz Sena\source\repos\Classe01\Classe01\bin\Debug\Classe01.pdb
+C:\Users\Luiz Sena\source\repos\Classe01\Classe01\obj\Debug\Classe01.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\Classe01\Classe01\obj\Debug\Classe01.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\Classe01\Classe01\obj\Debug\Classe01.exe
+C:\Users\Luiz Sena\source\repos\Classe01\Classe01\obj\Debug\Classe01.pdb
