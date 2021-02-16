@@ -48,9 +48,11 @@ namespace Classe01
         // IMPRESSÃO OBJETO
         public override string ToString()
         {
-            return ("Renavan: " + Renavan + " Chassi: " + Chassi + 
+            return ("\n\nVEÍCULO\nRenavan: " + Renavan + " Chassi: " + Chassi + 
                 " Placa: " + Placa + " Marca: " + Marca + " Modelo: " + 
-                Cor + " Ano: " + Ano);
+                Cor + " Ano: " + Ano +
+                "\n\nPROPRIETÁRIO\n" + proprietario.ToString() + 
+                "\n\nENDEREÇO\n" + proprietario.endereco.ToString());
         }
   
     }

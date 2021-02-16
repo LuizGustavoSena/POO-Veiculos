@@ -1,6 +1,6 @@
 ﻿namespace Classe01
 {
-    internal class Endereco
+    public class Endereco
     {
         public string Logradouro { get ; set ; }
         public int Numero { get ; set ; }

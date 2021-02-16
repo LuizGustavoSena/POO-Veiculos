@@ -5,7 +5,7 @@
         public string Cpf { get; set; }
         public string Nome { get; set; }
 
-        private Endereco endereco;
+        public Endereco endereco;
         public string DataNasc { get; set; }
         public string DataCompra { get; set; }
 
@@ -33,5 +33,6 @@
         {
             return ("CPF: " + Cpf + " Nome: " + Nome + " Data Nascimento: " + DataNasc + " Data Compra: " + DataCompra);
         }
+        
     }
 }
